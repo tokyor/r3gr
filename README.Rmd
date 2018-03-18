@@ -1,0 +1,23 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+# RラジオのためのRパッケージ
+
+[Rラジオ (R Radio for the Rest of us)](https://rlangradio.org/)
+
+## TODO
+
+- Rラジオの過去回データ
+- 言及しているパッケージ
+- 投稿用R Markdownテンプレート
