@@ -21,3 +21,4 @@ knitr::opts_chunk$set(
 - Rラジオの過去回データ
 - 言及しているパッケージ
 - 投稿用R Markdownテンプレート
+- 収録、編集に役立つtips
